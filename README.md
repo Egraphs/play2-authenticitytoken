@@ -30,6 +30,7 @@ Should an attacker inject a different id, he will never figure how the generate 
 ## Usage
 
 **3 minutes**, success guarantied… follow these steps
+IMPORTANT: You need to use the latest play2 **master**
 
 ### 1. Install the module dependency
 
