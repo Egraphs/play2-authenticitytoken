@@ -35,6 +35,8 @@ IMPORTANT: You need to use the latest play2 **master**
 
 ### 1. Install the module dependency
 
+** THIS IS DEPRECATED, just copy the source files in your project. It will work equaly well **
+
 Edit file `project/Build.scala` and adjust the following settings
 
 ```
